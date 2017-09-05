@@ -1,0 +1,30 @@
+package	link	working	description	props	example	srcLink	Notes
+annotation	https://github.com/hshoff/vx/tree/master/packages/vx-annotation	1	1	1	1	0	
+axis	https://github.com/hshoff/vx/tree/master/packages/vx-axis	1	1	1	1	1	
+bounds	https://github.com/hshoff/vx/tree/master/packages/vx-bounds	1	1	na	1	0	This is a HOC
+boxplot	https://github.com/hshoff/vx/tree/master/packages/vx-boxplot	1	1	1	0	0	
+brush	https://github.com/hshoff/vx/tree/master/packages/vx-brush	1	0	0	0	0	
+clip-path	https://github.com/hshoff/vx/tree/master/packages/vx-clip-path	1	0	0	0	0	
+curve	https://github.com/hshoff/vx/tree/master/packages/vx-curve	1	1	1	1	1	This references d3 functions and does not contain components
+drag	https://github.com/hshoff/vx/tree/master/packages/vx-drag	1	0	0	0	0	
+event	https://github.com/hshoff/vx/tree/master/packages/vx-event	1	0	0	0	0	
+geo	https://github.com/hshoff/vx/tree/master/packages/vx-geo	1	1	1	1	0	
+glyph	https://github.com/hshoff/vx/tree/master/packages/vx-glyph	1	1	0.5	1	0	Many components, not all have documentation
+gradient	https://github.com/hshoff/vx/tree/master/packages/vx-gradient	1	1	na	1	na	
+grid	https://github.com/hshoff/vx/tree/master/packages/vx-grid	1	1	1	1	1	
+group	https://github.com/hshoff/vx/tree/master/packages/vx-group	1	1	1	1	1	
+heatmap	https://github.com/hshoff/vx/tree/master/packages/vx-heatmap	1	1	1	1	0	
+hierarchy	https://github.com/hshoff/vx/tree/master/packages/vx-hierarchy	1	1	1	1	0	
+legend	https://github.com/hshoff/vx/tree/master/packages/vx-legend	1	1	0	1	0	
+marker	https://github.com/hshoff/vx/tree/master/packages/vx-marker	1	1	1	1	1	
+mock-data	https://github.com/hshoff/vx/tree/master/packages/vx-mock-data	1	1	1	1	1	
+network	https://github.com/hshoff/vx/tree/master/packages/vx-network	1	1	1	1	na	Might be work explaining how this works a little more
+pattern	https://github.com/hshoff/vx/tree/master/packages/vx-pattern	1	1	1	1	1	
+point	https://github.com/hshoff/vx/tree/master/packages/vx-point	1	1	na	1	0	
+responsive	https://github.com/hshoff/vx/tree/master/packages/vx-responsive	1	0.5	na	1	0	This could benefit from more explanation
+scale	https://github.com/hshoff/vx/tree/master/packages/vx-scale	1	1	1	1	na	This references d3-scale module
+shape	https://github.com/hshoff/vx/tree/master/packages/vx-shape	1	1	1	1	1	
+text	https://github.com/hshoff/vx/tree/master/packages/vx-text	0.5	1	1	1	1	
+tooltip	https://github.com/hshoff/vx/tree/master/packages/vx-tooltip	1	0	0	0	0	
+voronoi	https://github.com/hshoff/vx/tree/master/packages/vx-voronoi	1	1	na	1	1	This references d3 functions and contains one component
+zoom	https://github.com/hshoff/vx/tree/master/packages/vx-zoom	0	0	na	na	na	
