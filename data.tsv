@@ -14,7 +14,7 @@ gradient	https://github.com/hshoff/vx/tree/master/packages/vx-gradient	1	1	na	1	
 grid	https://github.com/hshoff/vx/tree/master/packages/vx-grid	1	1	1	1	1	
 group	https://github.com/hshoff/vx/tree/master/packages/vx-group	1	1	1	1	1	
 heatmap	https://github.com/hshoff/vx/tree/master/packages/vx-heatmap	1	1	1	1	0	
-hierarchy	https://github.com/hshoff/vx/tree/master/packages/vx-hierarchy	1	1	1	1	0	
+hierarchy	https://github.com/hshoff/vx/tree/master/packages/vx-hierarchy	1	1	1	1	1	
 legend	https://github.com/hshoff/vx/tree/master/packages/vx-legend	1	1	0	1	0	
 marker	https://github.com/hshoff/vx/tree/master/packages/vx-marker	1	1	1	1	1	
 mock-data	https://github.com/hshoff/vx/tree/master/packages/vx-mock-data	1	1	1	1	1	
